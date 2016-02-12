@@ -1,0 +1,25 @@
+{
+  "name": "headerMessage",
+  "homepage": "https://github.com/fpmweb/headerMessage",
+  "authors": [
+    "Francesc Puig <francesc.puig@gmail.com>"
+  ],
+  "description": "Pure CSS3, without javascript. Nice slide down toggle header message.",
+  "main": "headerMessage.html",
+  "moduleType": [],
+  "keywords": [
+    "header",
+    "message",
+    "fpmweb",
+    "pure",
+    "css3",
+    "without",
+    "javascript",
+    "css",
+    "sass",
+    "less",
+    "nice",
+    "animation"
+  ],
+  "license": "MIT"
+}
