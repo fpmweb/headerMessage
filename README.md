@@ -10,3 +10,6 @@ To add a new Bower package to your project you use the install command. This sho
 ```js
 bower install headerMessage
 ```
+
+Demo
+=========
