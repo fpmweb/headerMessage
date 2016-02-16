@@ -1,4 +1,4 @@
-headerMessage:
+What is headerMessage:
 =========
 Pure CSS3, without javascript.
 headerMessage is a lightweight CSS library for generating a sliding header panel to show important messages about your website on toggle.
