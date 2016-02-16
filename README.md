@@ -1,8 +1,31 @@
-headerMessage
+headerMessage:
 =========
-Pure CSS3, without javascript. Nice slide down toggle header message.
+Pure CSS3, without javascript.
+headerMessage is a lightweight CSS library for generating a sliding header panel to show important messages about your website on toggle.
 
-Bower installation
+
+How to use it:
+=========
+
+Include the headerMessage.css into the head section of your html page.
+```html
+<link rel="stylesheet" href="css/headerMessage.css">
+```
+
+Add your own messages to the header panel.
+```html
+<div class="headerMessage">
+  <h1> hello world!</h1>
+  <h2>I'm a hidden message.</h2>
+</div>
+```
+Create a checkbox based button to toggle the header message panel.
+```html
+<input type="checkbox" name="toggle" id="toggle">
+<label for="toggle"></label>
+```
+
+Bower installation:
 =========
 
 To add a new Bower package to your project you use the install command. This should be passed the name of the package you wish to install.
@@ -11,7 +34,7 @@ To add a new Bower package to your project you use the install command. This sho
 bower install headerMessage
 ```
 
-Demo
+Demo:
 =========
 
 http://fpmweb.github.io/headerMessage
