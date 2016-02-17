@@ -3,6 +3,15 @@ What is headerMessage:
 Pure CSS3, without javascript.
 headerMessage is a lightweight CSS library for generating a sliding header panel to show important messages about your website on toggle.
 
+Demo:
+=========
+
+http://fpmweb.github.io/headerMessage
+
+Video demo:
+=========
+![Alt text](/demo/headerMessage.gif?raw=true "headerMessage in action")
+
 
 How to use it:
 =========
@@ -33,8 +42,3 @@ To add a new Bower package to your project you use the install command. This sho
 ```js
 bower install headerMessage
 ```
-
-Demo:
-=========
-
-http://fpmweb.github.io/headerMessage
