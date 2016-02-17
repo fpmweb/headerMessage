@@ -8,8 +8,6 @@ Demo:
 
 http://fpmweb.github.io/headerMessage
 
-Video demo:
-=========
 ![Alt text](/demo/headerMessage.gif?raw=true "headerMessage in action")
 
 
