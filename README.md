@@ -1,3 +1,5 @@
+[![Downloads][downloads-image]][downloads-url]
+
 What is headerMessage:
 =========
 Pure CSS3, without javascript.
