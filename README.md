@@ -44,7 +44,7 @@ bower install headerMessage
 Author:
 =========
 
-| [![twitter/fpmweb](https://ca.gravatar.com/gravatars/edit-rating/469cb496a69dd2fad754acea476a53c4?s=70)](https://twitter.com/fpmweb "Follow @fpmweb on Twitter") |
+| [![twitter/fpmweb](https://ca.gravatar.com/gravatars/edit-rating/469cb496a69dd2fad754acea476a53c4)](https://twitter.com/fpmweb "Follow @fpmweb on Twitter") |
 |---|
 
 
