@@ -1,5 +1,3 @@
-[![Downloads][downloads-image]][downloads-url]
-
 What is headerMessage:
 =========
 Pure CSS3, without javascript.
@@ -42,3 +40,11 @@ To add a new Bower package to your project you use the install command. This sho
 ```js
 bower install headerMessage
 ```
+
+Author:
+=========
+
+| [![twitter/fpmweb](https://ca.gravatar.com/gravatars/edit-rating/469cb496a69dd2fad754acea476a53c4?s=70)](https://twitter.com/fpmweb "Follow @fpmweb on Twitter") |
+|---|
+
+
